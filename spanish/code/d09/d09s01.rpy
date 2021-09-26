@@ -4,7 +4,7 @@
 translate spanish d09s01_2910aaa3:
 
     # "Tuesday. Day-9."
-    "Tuesday. Day-9."
+    "Jueves. Día-9"
 
 # game/code/d09/d09s01.rpy:7
 translate spanish d09s01_74bc0fd8:
